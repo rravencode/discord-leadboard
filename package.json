@@ -1,0 +1,12 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cls && node ./src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "quick.db": "^9.1.7",
+    "write-file-atomic": "^5.0.1"
+  }
+}
